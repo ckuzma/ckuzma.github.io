@@ -1,12 +1,12 @@
 # Site settings
 title: Christopher Kuzma
-description: Personal website of Christopher Kuzma.
+description: Personal website of Christopher Kuzma
 username: Christopher Kuzma
 user_title: Computational Linguist
 email: chris.kuzma@gmail.com
 cv: https://drive.google.com/open?id=0B54y5eZyjc5gZ1RtbGxxSTBaQ1E
 linkedin: chriskuzma
-blog: http://blog.christopherkuzma.com
+blog: http://meinfruehstueck.blogspot.com
 github_username:  ckuzma
 
 exclude: ['package.json', 'src' , 'node_modules']
