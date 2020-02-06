@@ -6,7 +6,7 @@ user_title: Computational Linguist
 email: chris.kuzma@gmail.com
 cv: https://drive.google.com/open?id=0B54y5eZyjc5gZ1RtbGxxSTBaQ1E
 linkedin: chriskuzma
-blog: http://meinfruehstueck.blogspot.com
+blog: https://github.com/ckuzma/blog
 github_username:  ckuzma
 
 exclude: ['package.json', 'src' , 'node_modules']
