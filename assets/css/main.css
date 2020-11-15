@@ -96,7 +96,7 @@ body{
 }
 .icons-header .icon:active,.icons-header .icon:hover{
   color:#1a222c;
-  background:#000000
+  background:#54516a
 }
 @media only screen and (min-width:768px){
   .icons-header .icon{
@@ -193,7 +193,7 @@ body{
 .project-link:active,.project-link:hover{
   background-color:#54516a;
   border-color:#54516a;
-  color:#aeaeae;
+  color:#000000;
   transition:color .3s ease-in,background-color .3s ease-in,border-color .3s ease-in
 }
 .footer{
