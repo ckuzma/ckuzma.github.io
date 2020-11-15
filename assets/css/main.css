@@ -35,7 +35,7 @@ body{
 .content{
   z-index:1;
   text-align:center;
-  color:#fff;
+  color:#000000;
   position:absolute;
   top:50%;
   left:50%;
@@ -66,7 +66,7 @@ body{
   }
 }
 .content .link{
-  color:#fff;
+  color:#000000;
   display:inline-flex;
   justify-content:space-between;
   text-decoration:none;
@@ -84,19 +84,19 @@ body{
 }
 .icons-header .icon{
   text-align:center;
-  color:#fff;
+  color:#000000;
   width:20px;
   height:20px;
   font-size:20px;
   padding:10px;
   margin:2px;
   border-radius:50%;
-  border:2px solid #fff;
+  border:2px solid #000000;
   transition:all .7s
 }
 .icons-header .icon:active,.icons-header .icon:hover{
   color:#1a222c;
-  background:#fff
+  background:#000000
 }
 @media only screen and (min-width:768px){
   .icons-header .icon{
@@ -109,7 +109,7 @@ body{
   text-align:center
 }
 .down{
-  color:#fff;
+  color:#4b5664;
   position:absolute;
   bottom:25px;
   width:100%;
@@ -128,7 +128,7 @@ body{
   transform:translate(-50%,-50%);
   width:100px;
   height:100px;
-  fill:#fff;
+  fill:#4b5664;
   -webkit-animation:pulse 1.3s infinite;
   animation:pulse 1.3s infinite
 }
@@ -193,7 +193,7 @@ body{
 .project-link:active,.project-link:hover{
   background-color:#54516a;
   border-color:#54516a;
-  color:#fff;
+  color:#000000;
   transition:color .3s ease-in,background-color .3s ease-in,border-color .3s ease-in
 }
 .footer{
@@ -201,7 +201,7 @@ body{
   padding:10px 0;
   margin-top:100px;
   text-align:center;
-  color:#fff
+  color:#000000
 }
 .footer .love{
   color:red
@@ -209,5 +209,5 @@ body{
 .footer a{
   text-decoration:none;
   margin:0;
-  color:#fff
+  color:#000000
 }
