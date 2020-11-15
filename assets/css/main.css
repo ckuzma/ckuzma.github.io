@@ -191,9 +191,9 @@ body{
   transition:color .3s ease-out,background-color .3s ease-out,border-color .3s ease-out
 }
 .project-link:active,.project-link:hover{
-  background-color:#aeaeae;
+  background-color:#54516a;
   border-color:#54516a;
-  color:#000000;
+  color:#aeaeae;
   transition:color .3s ease-in,background-color .3s ease-in,border-color .3s ease-in
 }
 .footer{
