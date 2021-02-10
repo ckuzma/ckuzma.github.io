@@ -4,5 +4,5 @@ node_modules
 Gemfile\.lock
 
 # MacOS stuff
-.DS_Store
+*/.DS_Store
 
